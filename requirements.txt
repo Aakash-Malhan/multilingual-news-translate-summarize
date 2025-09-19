@@ -1,0 +1,7 @@
+transformers==4.43.3
+accelerate
+sentencepiece
+torch
+gradio
+langdetect
+yake
